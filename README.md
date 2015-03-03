@@ -60,5 +60,4 @@ I plan to make STL 3D objects as proposed by MacBob in another message in same
 thread.
 
 Ricardo Maeda
-rymaeda@yahoo.com
 23/february/2015
