@@ -1,0 +1,9 @@
+#ifndef GEOMETRIC
+#define GEOMETRIC
+
+#include "svg_polyparser.h"
+
+/* geo_area */
+double geo_area(SVG_POLYGON *polygon);
+
+#endif

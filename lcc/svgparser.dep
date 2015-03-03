@@ -1,0 +1,8 @@
+[svgparser.c]
+svg_polyparser.h
+geometric.h
+[svg_polyparser.c]
+svg_polyparser.h
+geometric.h
+[geometric.c]
+geometric.h
